@@ -1,8 +1,10 @@
-## Guineuro
+## Boheringer Ingelheim Hackaton
 
-En este repositorio encontrarás el proyecto presentado en la BOEHRINGER INGELHEIM Hackathon de 2024.
+This repository contains the repository of the project presented by the team "equipo amistad" in the Boheringer Ingelheim 2024.
 
-## Contenido
+![https://www.boehringer-ingelheim.com/sites/default/files/2024-04/Boehringer_Ingelheim_Dark-Green.png](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Boehringer_Ingelheim_Logo_RGB_Accent_Green.svg/2560px-Boehringer_Ingelheim_Logo_RGB_Accent_Green.svg.png)
+
+## Content of the project
 
 - **El proyecto consiste en un pseudo duolingo para tratar y supervisar paciente con algún trastorno mental.**
 - **El paciente podrá hacer un test diario que la IA adaptará en base a los resultados del resto de días para poder mejorar su estado de ánimo y reducir los síntomas del trastorno mental. Además dispondrá de un chat-bot capaz de conversar con el como manera de mejorar su estado de ánimo. Finalmente dispondrá de un botón de pánico que enviará un aviso a un bot de telegram.**

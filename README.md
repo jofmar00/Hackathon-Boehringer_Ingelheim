@@ -7,6 +7,13 @@ This repository contains the repository of the project presented by the team "eq
 ## Content of the Project
 This project is a application designed to treat and monitor patients with mental disorders. The platform provides tools for both patients and doctors.
 
+## Some screenshots of the final product
+
+<img src="Images/Screenshot_1.png" width="500">
+<img src="Images/Screenshot_4.png" width="700">
+<img src="Images/Screenshot_3.png" width="500">
+
+
 ### Patients
 
 - The patients can take a daily test, which will be adapted by AI based on the results from previous days. The goal is to improve the patient's mood and reduce the symptoms of the mental disorder.
